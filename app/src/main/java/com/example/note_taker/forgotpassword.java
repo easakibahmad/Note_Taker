@@ -23,6 +23,8 @@ public class forgotpassword extends AppCompatActivity {
     private Button mpasswordrecoverybutton;
     private TextView mgobacktologin;
 
+    //Testing Commit
+
     private TextView mtextview1, mtextview2;
     private Typeface mtypeface1, mtypeface2,mtypeface3;
 
