@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "743870574624",
+    "project_id": "notetaker-76d92",
+    "storage_bucket": "notetaker-76d92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743870574624:android:d8d099c8ea384f26594c45",
+        "android_client_info": {
+          "package_name": "com.example.note_taker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "743870574624-v9nqdmbtcqfqisiu9svkqrc7bo4qht18.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzXMCm_yOl9sKZ6iNxm-PbtloAV8fhOv8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "743870574624-v9nqdmbtcqfqisiu9svkqrc7bo4qht18.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
